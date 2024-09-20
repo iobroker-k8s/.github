@@ -6,6 +6,6 @@ Stay tuned for more information in the future!
 
 #### Logo Credits
 
-Our organization is based on:
+Our organization logo is based on:
 - ioBroker SVG logo
 - [Kubernetes logo](https://github.com/kubernetes/kubernetes/blob/master/logo/LICENSE)
