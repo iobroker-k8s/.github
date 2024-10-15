@@ -1,6 +1,6 @@
 # ioBroker in Kubernetes
 
-This project aims to run [ioBroker](https://www.iobroker.net/) inside [Kubernetes](https://kubernetes.io/).
+This project aims to run [ioBroker](https://www.iobroker.net/) natively inside [Kubernetes](https://kubernetes.io/).
 
 Stay tuned for more information in the future!
 
